@@ -14,7 +14,7 @@ Then, navigate into the project directory:
 
 ## Screenshots
 - ### HTML Schema
-![HTML Schema](https://cdn.discordapp.com/attachments/898403315493244949/930129936570785792/TW.png)
+![HTML Schema](https://cdn.discordapp.com/attachments/916029512884563999/953392290318131230/unknown.png)
 - ### Add To Do
 ![Add To Do](https://cdn.discordapp.com/attachments/916029512884563999/953392773204148254/unknown.png)
 - ### Delete To Do
